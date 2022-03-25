@@ -47,7 +47,8 @@ main {
     width: 90%;
     max-width: 380px;
     border-radius: 15px;
-    overflow: hidden; 
+    overflow: hidden;
+    margin: 100px 0; 
 }
 
 .image {
@@ -109,8 +110,6 @@ span {
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
     width: 100%;
 }
 
